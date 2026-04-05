@@ -19,7 +19,7 @@ const (
 )
 
 var PROJECT_ID_TO_URL = map[string]string{
-	"marble-prod-1":        PROD_METRICS_INGESTION_URL,
+	"marble-prd-1":        PROD_METRICS_INGESTION_URL,
 	"tokyo-country-381508": STAGING_METRICS_INGESTION_URL,
 }
 
